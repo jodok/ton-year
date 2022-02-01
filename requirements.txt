@@ -1,3 +1,10 @@
 numpy
 pandas
 scipy
+
+# Not part of original requirements
+matplotlib
+carbonplan
+carbonplan-styles
+ipykernel
+watermark
